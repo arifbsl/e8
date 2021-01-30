@@ -2389,6 +2389,8 @@ li.menu-item .nav-label.sale-label::before{
 .product-style-3 a.add-to-cart:hover{
     color: #f5f5f5;
 }
+
+/* Pagination */
 .wrap-pagination-info{
     margin-top: 46px;
     border-top: 1px solid #e6e6e6;
@@ -2448,6 +2450,8 @@ li.menu-item .nav-label.sale-label::before{
     margin: 0;
     margin-top: -2px;
 }
+
+/* End of Pagination */
 .left-sidebar .main-content-area{
     float: right !important;
 }
